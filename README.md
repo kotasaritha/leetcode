@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/kotasaritha/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kotasaritha/leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kotasaritha/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kotasaritha/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
