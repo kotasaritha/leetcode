@@ -36,8 +36,13 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kotasaritha/leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kotasaritha/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kotasaritha/leetcode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/kotasaritha/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
