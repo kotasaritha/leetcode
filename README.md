@@ -7,6 +7,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/kotasaritha/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/kotasaritha/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/kotasaritha/leetcode/tree/master/2544-alternating-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kotasaritha/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
