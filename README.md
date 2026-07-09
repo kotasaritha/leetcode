@@ -32,6 +32,7 @@
 | [0229-majority-element-ii](https://github.com/kotasaritha/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kotasaritha/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotasaritha/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kotasaritha/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kotasaritha/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/kotasaritha/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kotasaritha/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotasaritha/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kotasaritha/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
