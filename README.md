@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kotasaritha/leetcode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kotasaritha/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/kotasaritha/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2544-alternating-digit-sum](https://github.com/kotasaritha/leetcode/tree/master/2544-alternating-digit-sum) |
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0229-majority-element-ii](https://github.com/kotasaritha/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kotasaritha/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotasaritha/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kotasaritha/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/kotasaritha/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kotasaritha/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kotasaritha/leetcode/tree/master/0901-online-stock-span) |
