@@ -46,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kotasaritha/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/kotasaritha/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kotasaritha/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kotasaritha/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kotasaritha/leetcode/tree/master/0050-powx-n) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kotasaritha/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
