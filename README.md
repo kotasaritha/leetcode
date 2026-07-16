@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kotasaritha/leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/kotasaritha/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kotasaritha/leetcode/tree/master/0739-daily-temperatures) |
@@ -122,4 +123,16 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kotasaritha/leetcode/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
