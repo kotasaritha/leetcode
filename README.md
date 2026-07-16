@@ -130,6 +130,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kotasaritha/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/kotasaritha/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kotasaritha/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kotasaritha/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/kotasaritha/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kotasaritha/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -146,7 +148,12 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kotasaritha/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/kotasaritha/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kotasaritha/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/kotasaritha/leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
