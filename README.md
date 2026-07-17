@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/kotasaritha/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kotasaritha/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotasaritha/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -143,6 +144,7 @@
 | [0112-path-sum](https://github.com/kotasaritha/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kotasaritha/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/kotasaritha/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kotasaritha/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -160,13 +162,19 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kotasaritha/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/kotasaritha/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kotasaritha/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kotasaritha/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/kotasaritha/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
