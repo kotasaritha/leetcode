@@ -49,6 +49,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kotasaritha/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kotasaritha/leetcode/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/kotasaritha/leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/kotasaritha/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kotasaritha/leetcode/tree/master/0739-daily-temperatures) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kotasaritha/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotasaritha/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/kotasaritha/leetcode/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
