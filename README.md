@@ -37,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kotasaritha/leetcode/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/kotasaritha/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kotasaritha/leetcode/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/kotasaritha/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kotasaritha/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kotasaritha/leetcode/tree/master/0347-top-k-frequent-elements) |
