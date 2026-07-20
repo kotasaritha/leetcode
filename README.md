@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kotasaritha/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/kotasaritha/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/kotasaritha/leetcode/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kotasaritha/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -20,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kotasaritha/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kotasaritha/leetcode/tree/master/0509-fibonacci-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/kotasaritha/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
@@ -192,5 +194,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kotasaritha/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kotasaritha/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
