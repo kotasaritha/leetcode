@@ -42,6 +42,7 @@
 | [0198-house-robber](https://github.com/kotasaritha/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/kotasaritha/leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/kotasaritha/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/kotasaritha/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kotasaritha/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotasaritha/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -77,6 +78,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/kotasaritha/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kotasaritha/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotasaritha/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
