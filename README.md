@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kotasaritha/leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/kotasaritha/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kotasaritha/leetcode/tree/master/0509-fibonacci-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/kotasaritha/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Greedy
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/kotasaritha/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/kotasaritha/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kotasaritha/leetcode/tree/master/0347-top-k-frequent-elements) |
