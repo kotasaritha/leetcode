@@ -41,6 +41,7 @@
 | [0001-two-sum](https://github.com/kotasaritha/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kotasaritha/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kotasaritha/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/kotasaritha/leetcode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/kotasaritha/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
@@ -75,6 +76,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kotasaritha/leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/kotasaritha/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kotasaritha/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kotasaritha/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kotasaritha/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/kotasaritha/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kotasaritha/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kotasaritha/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
