@@ -21,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kotasaritha/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kotasaritha/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/kotasaritha/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kotasaritha/leetcode/tree/master/0322-coin-change) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kotasaritha/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/kotasaritha/leetcode/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/kotasaritha/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kotasaritha/leetcode/tree/master/0200-number-of-islands) |
@@ -85,6 +87,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kotasaritha/leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/kotasaritha/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
