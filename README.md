@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kotasaritha/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/kotasaritha/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kotasaritha/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/kotasaritha/leetcode/tree/master/0509-fibonacci-number) |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/kotasaritha/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kotasaritha/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kotasaritha/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kotasaritha/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kotasaritha/leetcode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/kotasaritha/leetcode/tree/master/0198-house-robber) |
