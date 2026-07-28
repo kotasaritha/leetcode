@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/kotasaritha/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kotasaritha/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kotasaritha/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0292-nim-game](https://github.com/kotasaritha/leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/kotasaritha/leetcode/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kotasaritha/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/kotasaritha/leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -217,4 +218,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/kotasaritha/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kotasaritha/leetcode/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kotasaritha/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kotasaritha/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
